@@ -21,12 +21,12 @@
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
-<a href="https://codepen.io/kunalukey32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kunalukey32" height="20" width="30" /></a>
-<a href="https://dev.to/kunalukey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kunalukey" height="20" width="30" /></a>
 <a href="https://twitter.com/helloukey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="helloukey" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/kunalukey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunalukey" height="20" width="30" /></a>
-<a href="https://medium.com/@kunalukey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kunalukey" height="20" width="30" /></a>
 <a href="https://www.youtube.com/c/techlenses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techlenses" height="20" width="30" /></a>
+<a href="https://codepen.io/kunalukey32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kunalukey32" height="20" width="30" /></a>
+<a href="https://medium.com/@kunalukey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kunalukey" height="20" width="30" /></a>
+<a href="https://dev.to/kunalukey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kunalukey" height="20" width="30" /></a>
 </p>
 
 <h5 align="left">Languages and Tools:</h5>
