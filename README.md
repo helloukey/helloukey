@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **kunalukey32@gmail.com**
 
-- 📄 Know about my experiences: **[RESUME](https://www.linkedin.com/in/kunalukey/)**
+- 📄 Know about my experiences: **[RESUME](https://github.com/helloukey/helloukey/files/8806806/Kunal.Ukey.-.Resume.pdf)**
 
 - ⚡ Fun fact: **I love traveling around my 5x18 room**
 
