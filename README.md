@@ -25,8 +25,6 @@
 <a href="https://dev.to/kunalukey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kunalukey" height="20" width="30" /></a>
 <a href="https://twitter.com/helloukey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="helloukey" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/kunalukey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunalukey" height="20" width="30" /></a>
-<a href="https://fb.com/kunal32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kunal32" height="20" width="30" /></a>
-<a href="https://instagram.com/ikunalukey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikunalukey" height="20" width="30" /></a>
 <a href="https://medium.com/@kunalukey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kunalukey" height="20" width="30" /></a>
 <a href="https://www.youtube.com/c/techlenses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techlenses" height="20" width="30" /></a>
 </p>
