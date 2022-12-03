@@ -5,11 +5,11 @@
 
 <br>
 
-- 🔭 I’m currently working on: **Portfolio Website**
+- 🔭 I’m currently working on: **[Portfolio Website](https://kunalukey.com)**
 
-- 🌱 I’m currently learning: **Next.js**
+- 🌱 I’m currently learning: **TypeScript**
 
-- 💬 Ask me about: **HTML, CSS, JavaScript**
+- 💬 Ask me about: **JavaScript**
 
 - 📫 How to reach me: **kunalukey32@gmail.com**
 
@@ -22,8 +22,6 @@
 <a href="https://twitter.com/helloukey" target="blank"><img align="center" src="/social-icons/twitter.svg" alt="helloukey" height="20" width="30" style=""/></a>
 <a href="https://linkedin.com/in/kunalukey" target="blank"><img align="center" src="/social-icons/linkedin.svg" alt="kunalukey" height="20" width="30" /></a>
 <a href="https://www.youtube.com/c/techlenses" target="blank"><img align="center" src="/social-icons/youtube.svg" alt="techlenses" height="20" width="30" /></a>
-<a href="https://codepen.io/kunalukey32" target="blank"><img align="center" src="/social-icons/codepen.svg" alt="kunalukey32" height="20" width="30" /></a>
-<a href="https://medium.com/@kunalukey" target="blank"><img align="center" src="/social-icons/medium.svg" alt="@kunalukey" height="20" width="30" /></a>
 <a href="https://dev.to/kunalukey" target="blank"><img align="center" src="/social-icons/devto.svg" alt="kunalukey" height="20" width="30" /></a>
 </p>
 
