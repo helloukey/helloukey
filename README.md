@@ -27,9 +27,8 @@
 
 <h5 align="left">Languages and Tools:</h5>
 <p align="left">
-  <span style="pointer-events: none">
     <img src="/languages-tools/javascript.svg" alt="javascript" width="30" height="20"/>
-  </span>
+    <img src="/languages-tools/typescript.svg" alt="typescript" width="30" height="20"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloukey&theme=dark&show_icons=true&locale=en&layout=compact" alt="helloukey" /></p>
