@@ -23,6 +23,7 @@
 <a href="https://linkedin.com/in/kunalukey" target="blank"><img align="center" src="/social-icons/linkedin.svg" alt="kunalukey" height="20" width="30" /></a>
 <a href="https://www.youtube.com/c/techlenses" target="blank"><img align="center" src="/social-icons/youtube.svg" alt="techlenses" height="20" width="30" /></a>
 <a href="https://dev.to/kunalukey" target="blank"><img align="center" src="/social-icons/devto.svg" alt="kunalukey" height="20" width="30" /></a>
+<a href="https://play.google.com/store/apps/dev?id=8750975289191339398" target="blank"><img align="center" src="/social-icons/play.svg" alt="play" height="20" width="30" /></a>
 </p>
 
 <h5 align="left">Languages and Tools:</h5>
