@@ -19,10 +19,18 @@
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
-<a href="https://twitter.com/helloukey" target="blank"><img align="center" src="/social-icons/twitter.svg" alt="helloukey" height="20" width="30" style=""/></a>
-<a href="https://linkedin.com/in/kunalukey" target="blank"><img align="center" src="/social-icons/linkedin.svg" alt="kunalukey" height="20" width="30" /></a>
-<a href="https://www.youtube.com/c/techlenses" target="blank"><img align="center" src="/social-icons/youtube.svg" alt="techlenses" height="20" width="30" /></a>
-<a href="https://dev.to/kunalukey" target="blank"><img align="center" src="/social-icons/devto.svg" alt="kunalukey" height="20" width="30" /></a>
+  <a href="https://twitter.com/helloukey" target="blank">
+    <img align="center" src="/social-icons/twitter.svg" alt="helloukey" height="20" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/kunalukey" target="blank">
+    <img align="center" src="/social-icons/linkedin.svg" alt="kunalukey" height="20" width="30" />
+  </a>
+  <a href="https://www.youtube.com/c/techlenses" target="blank">
+    <img align="center" src="/social-icons/youtube.svg" alt="techlenses" height="20" width="30" />
+  </a>
+  <a href="https://dev.to/kunalukey" target="blank">
+    <img align="center" src="/social-icons/devto.svg" alt="kunalukey" height="20" width="30" />
+  </a>
 </p>
 
 <h5 align="left">Languages and Tools:</h5>
