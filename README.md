@@ -55,6 +55,7 @@
     <img src="/languages-tools/aws.svg" alt="aws" width="30" height="20"/>
     <img src="/languages-tools/github-actions.svg" alt="github-actions" width="30" height="20"/>
     <img src="/languages-tools/docker.svg" alt="docker" width="30" height="20"/>
+    <img src="/languages-tools/kubernetes.svg" alt="kubernetes" width="30" height="20"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloukey&theme=dark&show_icons=true&locale=en&layout=compact" alt="helloukey" /></p>
