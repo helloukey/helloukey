@@ -1,7 +1,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/43317360/170991782-ead5d6a5-61be-4e53-aed6-f139066402d3.gif" alt="banner">
 
 <h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">A passionate full-stack web developer who works mostly in JavaScript and tries to write easy-to-understand, maintain, and scalable code.</h3>
+<h3 align="center">A full-stack developer who works mostly in JavaScript and tries to write easy-to-understand, maintainable, and scalable code.</h3>
 
 <br>
 
