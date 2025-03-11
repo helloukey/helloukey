@@ -48,6 +48,7 @@
     <img src="/languages-tools/postgresql.svg" alt="postgresql" width="30" height="20"/>
     <img src="/languages-tools/sqlite.svg" alt="sqlite" width="30" height="20"/>
     <img src="/languages-tools/cypress.svg" alt="cypress" width="30" height="20"/>
+    <img src="/languages-tools/jest.svg" alt="jest" width="30" height="20"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloukey&theme=dark&show_icons=true&locale=en&layout=compact" alt="helloukey" /></p>
