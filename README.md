@@ -42,6 +42,7 @@
     <img src="/languages-tools/supabase.svg" alt="supabase" width="30" height="20"/>
     <img src="/languages-tools/expo.svg" alt="expo" width="30" height="20"/>
     <img src="/languages-tools/git.svg" alt="git" width="30" height="20"/>
+    <img src="/languages-tools/github.svg" alt="github" width="30" height="20"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloukey&theme=dark&show_icons=true&locale=en&layout=compact" alt="helloukey" /></p>
