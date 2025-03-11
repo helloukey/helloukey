@@ -52,6 +52,7 @@
     <img src="/languages-tools/vercel.svg" alt="vercel" width="30" height="20"/>
     <img src="/languages-tools/netlify.svg" alt="netlify" width="30" height="20"/>
     <img src="/languages-tools/ec2.svg" alt="ec2" width="30" height="20"/>
+    <img src="/languages-tools/s3.svg" alt="s3" width="30" height="20"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloukey&theme=dark&show_icons=true&locale=en&layout=compact" alt="helloukey" /></p>
