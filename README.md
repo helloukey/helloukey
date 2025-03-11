@@ -5,7 +5,7 @@
 
 <br>
 
-- 🔭 I’m currently working on: **[Portfolio Website](https://kunalukey.com)**
+- 🔭 I’m currently working on: **[Video Compressor](https://play.google.com/store/apps/details?id=com.kunalukey.vidprix)**
 
 - 🌱 I’m currently learning: **Blockchain Development**
 
