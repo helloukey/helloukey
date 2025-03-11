@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: **[Portfolio Website](https://kunalukey.com)**
 
-- 🌱 I’m currently learning: **TypeScript**
+- 🌱 I’m currently learning: **Blockchain Development**
 
 - 💬 Ask me about: **JavaScript**
 
