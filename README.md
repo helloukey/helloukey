@@ -30,6 +30,7 @@
     <img src="/languages-tools/javascript.svg" alt="javascript" width="30" height="20"/>
     <img src="/languages-tools/typescript.svg" alt="typescript" width="30" height="20"/>
     <img src="/languages-tools/react.svg" alt="reactjs" width="30" height="20"/>
+    <img src="/languages-tools/nextjs.svg" alt="nextjs" width="30" height="20"/>
     <img src="/languages-tools/node.svg" alt="nodejs" width="30" height="20"/>
     <img src="/languages-tools/express.svg" alt="expressjs" width="30" height="20"/>
     <img src="/languages-tools/mongodb.svg" alt="mongodb" width="20" height="20"/>
