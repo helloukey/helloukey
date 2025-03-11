@@ -42,6 +42,7 @@
     <img src="/languages-tools/supabase.svg" alt="supabase" width="30" height="20"/>
     <img src="/languages-tools/expo.svg" alt="expo" width="30" height="20"/>
     <img src="/languages-tools/git.svg" alt="git" width="30" height="20"/>
+    <img src="/languages-tools/markdown.svg" alt="markdown" width="30" height="20"/>
     <img src="/languages-tools/github.svg" alt="github" width="30" height="20"/>
     <img src="/languages-tools/postman.svg" alt="postman" width="30" height="20"/>
     <img src="/languages-tools/mysql.svg" alt="mysql" width="30" height="20"/>
