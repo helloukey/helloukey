@@ -38,6 +38,7 @@
     <img src="/languages-tools/redux.svg" alt="redux" width="30" height="20"/>
     <img src="/languages-tools/firebase.svg" alt="firebase" width="30" height="20"/>
     <img src="/languages-tools/appwrite.svg" alt="appwrite" width="30" height="20"/>
+    <img src="/languages-tools/supabase.svg" alt="supabase" width="30" height="20"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloukey&theme=dark&show_icons=true&locale=en&layout=compact" alt="helloukey" /></p>
